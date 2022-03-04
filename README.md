@@ -1,2 +1,7 @@
-# pihole-repo
-Reflections on my pihole project to block ads
+## pihole-repo
+
+###Purpose
+
+###Why the project is useful
+
+###Where to get help with the project
